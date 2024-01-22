@@ -1,0 +1,22 @@
+C:\Users\ok\source\repos\Encrypted Note Vault\Encrypted Note Vault\bin\Debug\net6.0\Encrypted Note Vault.exe
+C:\Users\ok\source\repos\Encrypted Note Vault\Encrypted Note Vault\bin\Debug\net6.0\Encrypted Note Vault.deps.json
+C:\Users\ok\source\repos\Encrypted Note Vault\Encrypted Note Vault\bin\Debug\net6.0\Encrypted Note Vault.runtimeconfig.json
+C:\Users\ok\source\repos\Encrypted Note Vault\Encrypted Note Vault\bin\Debug\net6.0\Encrypted Note Vault.dll
+C:\Users\ok\source\repos\Encrypted Note Vault\Encrypted Note Vault\bin\Debug\net6.0\Encrypted Note Vault.pdb
+C:\Users\ok\source\repos\Encrypted Note Vault\Encrypted Note Vault\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\ok\source\repos\Encrypted Note Vault\Encrypted Note Vault\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\ok\source\repos\Encrypted Note Vault\Encrypted Note Vault\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\ok\source\repos\Encrypted Note Vault\Encrypted Note Vault\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\ok\source\repos\Encrypted Note Vault\Encrypted Note Vault\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\ok\source\repos\Encrypted Note Vault\Encrypted Note Vault\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\ok\source\repos\Encrypted Note Vault\Encrypted Note Vault\obj\Debug\net6.0\Encrypted Note Vault.csproj.AssemblyReference.cache
+C:\Users\ok\source\repos\Encrypted Note Vault\Encrypted Note Vault\obj\Debug\net6.0\Encrypted Note Vault.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ok\source\repos\Encrypted Note Vault\Encrypted Note Vault\obj\Debug\net6.0\Encrypted Note Vault.AssemblyInfoInputs.cache
+C:\Users\ok\source\repos\Encrypted Note Vault\Encrypted Note Vault\obj\Debug\net6.0\Encrypted Note Vault.AssemblyInfo.cs
+C:\Users\ok\source\repos\Encrypted Note Vault\Encrypted Note Vault\obj\Debug\net6.0\Encrypted Note Vault.csproj.CoreCompileInputs.cache
+C:\Users\ok\source\repos\Encrypted Note Vault\Encrypted Note Vault\obj\Debug\net6.0\Encrypted Note Vault.csproj.CopyComplete
+C:\Users\ok\source\repos\Encrypted Note Vault\Encrypted Note Vault\obj\Debug\net6.0\Encrypted Note Vault.dll
+C:\Users\ok\source\repos\Encrypted Note Vault\Encrypted Note Vault\obj\Debug\net6.0\refint\Encrypted Note Vault.dll
+C:\Users\ok\source\repos\Encrypted Note Vault\Encrypted Note Vault\obj\Debug\net6.0\Encrypted Note Vault.pdb
+C:\Users\ok\source\repos\Encrypted Note Vault\Encrypted Note Vault\obj\Debug\net6.0\Encrypted Note Vault.genruntimeconfig.cache
+C:\Users\ok\source\repos\Encrypted Note Vault\Encrypted Note Vault\obj\Debug\net6.0\ref\Encrypted Note Vault.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "W6qOF+5flnODpRawiS5fIEpWQh7Vj8LF+emAcAVMCxhDUnd2G8JlROfSgAohis/j2vO1z1LfT/OnkwVC3cNxhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ok\\source\\repos\\Encrypted Note Vault\\Encrypted Note Vault\\Encrypted Note Vault.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ok\\.nuget\\packages\\bouncycastle.netcore\\2.2.1\\bouncycastle.netcore.2.2.1.nupkg.sha512",
+    "C:\\Users\\ok\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\ok\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": []
+}
